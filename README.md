@@ -15,7 +15,6 @@ This project solves this fundamental issue by introducing a Decentralized E-Voti
 
 # Contract
 Contract link:
-
 Contract's screenshot:
 
 # Future scopes
@@ -24,5 +23,6 @@ Contract's screenshot:
 - **Quadratic Voting Implementation:** A more democratic voting mechanism where voters can cast multiple votes for a single candidate, but the cost of doing so increases quadratically (1 vote = 1 credit, 2 votes = 4 credits, 3 votes = 9 credits) to protect minority opinions.
 
 # Profile
-- **Name:** Tiến Chung
+- **Name:** Chung Nguyễn Hữu Tiến
+- **Info:** https://www.facebook.com/chung.tien.2510
 - **Skills:**
